@@ -30,6 +30,6 @@ First go to Client -> cd client -> run npm i -> then run -> npm run dev
 Then go to Server -> cd server -> run npm i -> then run -> npm start
 
 
-Connect yout MongoDB Database
+Connect your MongoDB Database
 
-Got to firebase create your account or log in and Put the generated API Key in the firebase.config.js
+Go to firebase, create your account or log in and Put the generated API Key in the firebase.config.js
