@@ -22,11 +22,14 @@ CareerLift is designed to make the job search easier by offering flexible filter
 Whether you're looking for a high-paying remote job or an entry-level role near your location, CareerLift provides the tools to help you find your next opportunity quickly and easily.
 
 **How to run the project**
+
 **Client Side**
 First go to Client -> cd client -> run npm i -> then run -> npm run dev
 
 **Server Side**
 Then go to Server -> cd server -> run npm i -> then run -> npm start
 
+
 Connect yout MongoDB Database
+
 Got to firebase create your account or log in and Put the generated API Key in the firebase.config.js
